@@ -37,3 +37,5 @@
 
 **Story 4**
   - แสดงค่าเฉลี่ยของนักรีวิวต่อบริษัทที่จัดจำหน่ายภาพยนต์
+
+[Click to view the details of the Story](https://public.tableau.com/shared/Y3MRT4DPR?:display_count=n&:origin=viz_share_link)
