@@ -1,2 +1,2 @@
 # Dashboard
-![dashboard]()
+![dashboard](img/Dashboard.png)
