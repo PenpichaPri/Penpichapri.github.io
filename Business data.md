@@ -13,7 +13,7 @@
 
 - **งบประมาณของภาพยนต์แต่ละเรื่อง:**
   - แสดงงบประมาณที่ใช้สร้างภาพยนตร์แต่ละเรื่อง
-    
+[Click](https://public.tableau.com/views/Dashboard_Mavel/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 # Story
 **แสดงถึงความสำเร็จของภาพยนต์มาเวล(Marvel) ตั้งแต่รายได้ กำไรในตลาดต่าง ๆ รวมถึงการตอบรับจากผู้วิจารณ์และผู้ชม**
 ![story](img/Story_1.png)
