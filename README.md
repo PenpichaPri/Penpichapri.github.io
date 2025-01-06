@@ -1,4 +1,71 @@
 <h1 align="center">Hi 👋, I'm Penpicha Priwan</h1>
+
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #EAF8E6;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #A9D5A5;
+            color: #2C5F2D;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #FFFFFF;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #2C5F2D;
+        }
+
+        .profile {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .profile img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+            border: 4px solid #A9D5A5;
+        }
+
+        .profile p {
+            color: #4F7942;
+            font-size: 1.2em;
+            text-align: center;
+        }
+
+        a {
+            color: #2C5F2D;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #A9D5A5;
+            color: #FFFFFF;
+            margin-top: 20px;
+        }
+    </style>
 <img src="img/Profile.jpg" alt="Khemika's Profile Picture">
 <h3 align="center">A Computer Science student with an interest in data analysis, possessing basic skills in Tableau, Power BI, SQL, and programming, eager to learn and grow professionally in the field.</h3>
 
