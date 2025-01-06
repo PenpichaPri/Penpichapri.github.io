@@ -8,5 +8,4 @@
 
 - 👩🏻‍💻 All of my projects are available at [All Project](https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link)
 
-- [Profile](profile.html)
 - 📫 How to reach me **Penpicha.pri@ku.th**
