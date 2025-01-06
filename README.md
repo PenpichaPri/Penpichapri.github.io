@@ -7,7 +7,7 @@
 - 👯 Story Marvel Project [Marvel Movie](https://public.tableau.com/shared/KPWFX5TFX?:display_count=n&:origin=viz_share_link)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link](https://drive.google.com/drive/folders/1-5FTNCxjGfQgde-A9j5ApqqTEVtRJr7I?usp=drive_link)
-
+- [Profile](profile.html)
 - 📫 How to reach me **Penpicha.pri@ku.th**
 
 <h3 align="left">Connect with me:</h3>
