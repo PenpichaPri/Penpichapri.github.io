@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Penpicha Priwan</h1>
 
-<style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kemikha Chan-Ngam Portfolio</title>
+    <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #EAF8E6;
@@ -66,7 +70,9 @@
             margin-top: 20px;
         }
     </style>
-<img src="img/Profile.jpg" alt="Khemika's Profile Picture">
+</head>
+
+<img src="img/Profile.jpg" alt="Penpicha Profile Picture">
 <h3 align="center">A Computer Science student with an interest in data analysis, possessing basic skills in Tableau, Power BI, SQL, and programming, eager to learn and grow professionally in the field.</h3>
 
 - 🔭 Dashboard Marvel Project [Marvel Movie](https://public.tableau.com/views/Dashboard_Mavel/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
