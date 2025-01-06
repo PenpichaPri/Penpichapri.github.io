@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Penpicha Priwan</h1>
-A Computer Science student with an interest in data analysis, possessing basic skills in Tableau, Power BI, SQL, and programming, eager to learn and grow professionally in the field.
+## A Computer Science student with an interest in data analysis, possessing basic skills in Tableau, Power BI, SQL, and programming, eager to learn and grow professionally in the field.
 
 - 📈 Dashboard & Story Marvel Movie Project [Marvel Movie](Business-data.md)
   - Developed a web application for analyzing user reviews about movies using a dataset of over 100,000 reviews (categorized as positive, negative, and neutral).
