@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Penpicha Priwan</h1>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penpicha PriwanPortfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -68,6 +72,8 @@
         }
     </style>
 </head>
+</html>
+
 
 <img src="img/Profile.jpg" alt="Penpicha Profile Picture">
 <h3 align="center">A Computer Science student with an interest in data analysis, possessing basic skills in Tableau, Power BI, SQL, and programming, eager to learn and grow professionally in the field.</h3>
