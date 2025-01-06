@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Penpicha Priwan</h1>
+
 ![profile](img/Profile.jpg)
 <h3 align="center">A Computer Science student with an interest in data analysis, possessing basic skills in Tableau, Power BI, SQL, and programming, eager to learn and grow professionally in the field.</h3>
 
