@@ -8,7 +8,7 @@
   - Developed a web application for analyzing user reviews about movies using a dataset of over 100,000 reviews (categorized as positive, negative, and neutral).
   - Used Random Forest and Logistic Regression to classify sentiments, splitting the data into a test set (20%) and a training set (80%).
   - Developed a web interface allowing users to input text and select the desired model. The system then predicts whether the sentiment is positive, negative, or neutral and displays the results.
-- 🌐 **SAW WiFi and Service** [Project](SAW-WIFI-AND-SERVICE.pdf)
+- 🌐 **SAW WiFi and Service** [Project](SA.pdf)
    - Analyzed and designed an internet network system, developed from the AIS system, known as the SAW system. 
    - Created Use Case Diagram, Activity Diagram, Sequence Diagram, Class Diagram, State chart Diagram, and Data flow Diagram to illustrate system functionality.
    - Designed user interface (UI) and user experience (UX) prototypes using Figma.
